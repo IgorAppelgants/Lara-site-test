@@ -1,0 +1,328 @@
+.effects {
+  display: inline-block;
+  background-color: transparent;
+  z-index: 1;
+  overflow-x: hidden;
+  .effect-1 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 700px;
+    top: 450px;
+    background: #8BE1DB;
+    filter: blur(15px);
+  }
+  .effect-2 {
+    position: absolute;
+    width: 55.1px;
+    height: 55.1px;
+    left: 320.98px;
+    top: 137.94px;
+    background: #8BE1DB;
+  }
+  .effect-3 {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 410px;
+    top: 50px;
+    background: #8BE1DB;
+  }
+  .effect-4 {
+    position: absolute;
+    width: 83px;
+    height: 83px;
+    left: 699px;
+    top: 236.5px;
+    background: #8BE1DB;
+    filter: blur(5px);
+  }
+  .effect-5 {
+    position: absolute;
+    width: 81.79px;
+    height: 81.79px;
+    right: 100px;
+    top: 561px;
+    background: #8BE1DB;
+    filter: blur(15px);
+  }
+  .effect-2-1 {
+    position: absolute;
+    width: 143px;
+    height: 143px;
+    left: 305px;
+    top: 742px;
+    border: none;
+    box-sizing: border-box;
+    filter: blur(3px);
+    background: #8BE1DB;
+  }
+  .effect-2-2 {
+    position: absolute;
+    width: 124.71px;
+    height: 124.71px;
+    left: 267px;
+    top: 1318.98px;
+    background: #8BE1DB;
+  }
+  .effect-2-3 {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    right: 350px;
+    top: 971.33px;
+    background: #8BE1DB;
+    
+  }
+  .effect-2-4 {
+    position: absolute;
+    width: 133.43px;
+    height: 133.43px;
+    right: 350px;
+    top: 1137.53px;
+    background: #84F9B1;
+    filter: blur(24.1873px);
+    transform: rotate(-15deg);
+    
+  }
+  .effect-3-1 {
+    position: absolute;
+    width: 83px;
+    height: 83px;
+    left: 500px;
+    top: 1900px;
+    background: #8BE1DB;
+    filter: blur(15px);
+    transform: rotate(121.85deg);
+    z-index: 1;
+  }
+  .effect-3-2 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 350px;
+    top: 2100.77px;
+    background: #84F9B1;
+    filter: blur(15px);
+    transform: rotate(165deg);
+    z-index: 1;
+  }
+  .effect-3-3 {
+    position: absolute;
+    width: 121.77px;
+    height: 121.77px;
+    left: 270.59px;
+    top: 2445.81px;
+    transform: rotate(-75.94deg);
+    background: #8BE1DB;
+  }
+  .effect-3-4 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 500.04px;
+    top: 2600px;
+    background: #8BE1DB;
+    filter: blur(5px);
+    transform: rotate(-58.15deg);
+  }
+  .effect-3-5 {
+    position: absolute;
+    width: 108.89px;
+    height: 108.89px;
+    right: 450px;
+    top: 1950px;
+    background: #8BE1DB;
+    filter: blur(5px);
+    transform: rotate(121.85deg);
+  }
+  .effect-3-6 {
+    position: absolute;
+    width: 121.77px;
+    height: 121.77px;
+    right: 300px;
+    top: 2060px;
+    transform: rotate(104.06deg);
+  }
+  .effect-3-7 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    right: 370px;
+    top: 2400px;
+    background: #84F9B1;
+    filter: blur(14.1873px);
+    transform: rotate(-15deg);
+  }
+  .effect-3-8 {
+    position: absolute;
+    width: 81.04px;
+    height: 81.04px;
+    right: 500px;
+    top: 2670px;
+    background: #8BE1DB;
+    filter: blur(15px);
+    transform: rotate(-58.15deg);
+  }
+  .effect-4-1 {
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    right: 100px;
+    top: 4100px;
+    background: #84F9B1;
+    filter: blur(20px);
+    transform: rotate(-159.5deg);
+  }
+  .effect-4-2 {
+    position: absolute;
+    width: 111.52px;
+    height: 111.52px;
+    right: 150px;
+    top: 4020px;
+    background: #8BE1DB;
+    filter: blur(5px);
+    transform: rotate(-58.15deg);
+  }
+  .effect-4-3 {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    right: 300px;
+    top: 3990.33px;
+    background: #8BE1DB;
+    filter: blur(15px);
+    transform: rotate(-58.15deg);
+  }
+  .effect-4-4 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    right: 200px;
+    top: 4212.11px;
+    background: #84F9B1;
+    filter: blur(20px);
+    transform: rotate(-15deg);
+  }
+  .effect-6-1 {
+    position: absolute;
+    left: 150px;
+    top: 5900px;
+    background: #8BE1DB;
+    filter: blur(15px);
+    transform: rotate(-58.15deg);
+  }
+  .effect-6-2 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 450px;
+    top: 5830px;
+    background: #84F9B1;
+    filter: blur(20px);
+    transform: rotate(-159.5deg);
+  }
+  .effect-6-3 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: 550px;
+    top: 5830px;
+    background: #84F9B1;
+    filter: blur(20px);
+    transform: rotate(-159.5deg);
+  }
+  .effect-6-4 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: 250px;
+    top: 5830px;
+    background: #8BE1DB;
+    filter: blur(20px);
+    transform: rotate(-159.5deg);
+  }
+  .effect-6-5 {
+    position: absolute;
+    width: 111.52px;
+    height: 111.52px;
+    left: 160px;
+    top: 6350px;
+    background: #8BE1DB;
+    filter: blur(15px);
+    transform: rotate(157.35deg);
+  }
+  .effect-6-6 {
+    position: absolute;
+    width: 111.52px;
+    height: 111.52px;
+    left: 430px;
+    top: 6370px;
+    background: #84F9B1;
+    filter: blur(40px);
+    transform: rotate(158.74deg);
+  }
+  .effect-6-7 {
+    position: absolute;
+    width: 111.52px;
+    height: 111.52px;
+    right: 590px;
+    top: 6390px;
+    background: #8BE1DB;
+    filter: blur(15px);
+    transform: rotate(115.59deg);
+  }
+  .effect-6-8 {
+    position: absolute;
+    width: 111.52px;
+    height: 111.52px;
+    right: 200px;
+    top: 6320px;
+    background: #84F9B1;
+    filter: blur(40px);
+    transform: rotate(14.24deg);
+  }
+  .effect-6-9 {
+    position: absolute;
+    width: 111.52px;
+    height: 111.52px;
+    left: 140px;
+    top: 6650px;
+    background: #84F9B1;
+    filter: blur(40px);
+    transform: rotate(-160.97deg);
+  }
+  .effect-6-10 {
+    position: absolute;
+    width: 111.52px;
+    height: 111.52px;
+    left: 480px;
+    top: 6620px;
+    background: #8BE1DB;
+    filter: blur(15px);
+    transform: rotate(-59.62deg);
+  }
+  .effect-6-11 {
+    position: absolute;
+    width: 111.52px;
+    height: 111.52px;
+    right: 530px;
+    top: 6630px;
+    background: #84F9B1;
+    filter: blur(40px);
+    transform: rotate(-16.47deg);
+  }
+  .effect-6-12 {
+    position: absolute;
+    width: 111.52px;
+    height: 111.52px;
+    right: 230px;
+    top: 6680px;
+    background: #8BE1DB;
+    filter: blur(15px);
+    transform: rotate(-17.86deg);
+  }
+  @media (max-width: 450px) {
+    display: none;
+  }
+}
